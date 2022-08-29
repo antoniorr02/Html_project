@@ -90,7 +90,7 @@ SECCION 2
 	}
 }
 
-#seccion3 img{	
+#seccion2 img{	
 	border-radius:100%;
 	width:200px;
 	height:200px;
@@ -104,7 +104,7 @@ SECCION 2
 		padding:10px;
 	}
 
-	#seccion3 p{
+	#seccion2 p{
 		padding:10px;
 	}
 }
@@ -116,7 +116,7 @@ SECCION 2
 		padding:5px;
 	}
 
-	#seccion3 p{
+	#seccion2 p{
 		padding:5px;
 	}
 }
